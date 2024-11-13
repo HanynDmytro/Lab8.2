@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CA891B-0482-41FB-8126-ED44AAF8071A}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39CA891B-0482-41FB-8126-ED44AAF8071A}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B2F509-F8D5-4C9C-A05C-68B4BD721AEF}|pr8.2\\pr8.2.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\pr8.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6B2F509-F8D5-4C9C-A05C-68B4BD721AEF}|pr8.2\\pr8.2.vcxproj|solutionrelative:pr8.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T20:30:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\pr8.2\\Source.cpp",
+              "RelativeDocumentMoniker": "pr8.2\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr 8.2\\pr8.2\\pr8.2\\Source.cpp",
+              "RelativeToolTip": "pr8.2\\Source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:26:07.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
